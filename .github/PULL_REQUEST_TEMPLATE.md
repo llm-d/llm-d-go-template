@@ -15,8 +15,8 @@
 
 ## Checklist
 
-- [ ] Commits are signed off (`git commit -s`) per [DCO](PR_SIGNOFF.md)
-- [ ] Code follows project [contributing guidelines](CONTRIBUTING.md)
+- [ ] Commits are signed off (`git commit -s`) per [DCO](/PR_SIGNOFF.md)
+- [ ] Code follows project [contributing guidelines](/CONTRIBUTING.md)
 - [ ] Tests pass locally (`make test`)
 - [ ] Linters pass (`make lint`)
 - [ ] Documentation updated (if applicable)
